@@ -122,4 +122,4 @@ Dashboards and visuals are provided as PBIX files and exported images for quick 
 ---
 
 ## Credits
-Developed for the Climate-O-Metric Hackathon. Datasets compiled from publicly available climate and energy sources and organized for analysis and storytelling.
+Developed for the Climate-O-Metric Hackathon — awarded 2nd place (🥈). Datasets compiled from publicly available climate and energy sources and organized for analysis and storytelling.
