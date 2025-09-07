@@ -1,0 +1,7 @@
+Indicator,Unit,Countries_Count,Years_Available,Total_Records,Missing_Values,Min_Value,Max_Value,Mean_Value
+Carbon stocks in forests,Million tonnes,208,1992-2020,6007,0,0.0,296948.8291,6753.21
+Forest area,1000 HA,235,1992-2022,7256,0,0.0,4220756.6422,85928.21
+Index of carbon stocks in forests,Index,206,1992-2020,5949,0,38.8612916193339,345.808954629783,105.65
+Index of forest extent,Index,234,1992-2022,7225,0,35.7683540062179,296.0,101.04
+Land area,1000 HA,225,1992-2022,6858,0,3.0,1638995.0,58094.65
+Share of forest area,Percent,225,1992-2022,6858,0,0.0,98.0026112185687,33.68

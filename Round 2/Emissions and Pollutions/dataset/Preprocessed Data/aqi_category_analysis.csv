@@ -1,0 +1,23 @@
+pollutant,aqi_category,city_count,percentage
+Overall AQI,Good,9936,42.35
+Overall AQI,Moderate,9231,39.34
+Overall AQI,Unhealthy,2227,9.49
+Overall AQI,Unhealthy for Sensitive Groups,1591,6.78
+Overall AQI,Very Unhealthy,287,1.22
+Overall AQI,Hazardous,191,0.81
+Carbon Monoxide,Good,23460,99.99
+Carbon Monoxide,Moderate,2,0.01
+Carbon Monoxide,Unhealthy for Sensitive Groups,1,0.0
+Ozone,Good,21069,89.8
+Ozone,Moderate,1445,6.16
+Ozone,Unhealthy for Sensitive Groups,491,2.09
+Ozone,Unhealthy,405,1.73
+Ozone,Very Unhealthy,53,0.23
+Nitrogen Dioxide,Good,23448,99.94
+Nitrogen Dioxide,Moderate,15,0.06
+PM2.5,Good,10208,43.51
+PM2.5,Moderate,9075,38.68
+PM2.5,Unhealthy,2129,9.07
+PM2.5,Unhealthy for Sensitive Groups,1624,6.92
+PM2.5,Very Unhealthy,255,1.09
+PM2.5,Hazardous,172,0.73
