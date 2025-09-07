@@ -82,9 +82,22 @@ Each subproject focuses on a distinct aspect of the climate-energy system with c
 
 ---
 
-## Round 3 — Predictive Insight (Brief)
-Brief predictive exploration in `l3.ipynb` using `Country_Pollution_Stats.csv`.
-Applied mean imputation and standard scaling to selected features, then trained a baseline model to gauge predictability and feature influence.
+## Round 3 — Predictive Insight 
+In the final round, we were provided with a dataset named Country_Pollution_Stats.csv, containing climate and pollution-related statistics for different countries.
+
+The dataset had 217 rows and 20 columns, with information such as:
+
+Country-level details: region_id, country_name, population_population_number_of_people, gdp.
+
+Waste composition percentages: food/organic, glass, metal, paper/cardboard, plastic, rubber/leather, wood, yard/garden, and others.
+
+Special waste data (tons/year): agricultural, construction/demolition, e-waste, hazardous, industrial, and medical.
+
+Climate impact: Temperature Change.
+
+A Jupyter Notebook (l3.ipynb) demonstrating the preprocessing, analysis, and model training steps.
+
+Predicted future trends and insights for climate-related decision-making.
 
 ---
 
